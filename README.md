@@ -23,4 +23,6 @@ Please note that you may need to create a free Kaggle account to access the data
 - [ ] Draw conclusions and insights
 
 
+### PowerBI Dashboard
+![](https://github.com/HoangHaUI/Product_Sales_Analysis_With_Python/images/powerBI_dashboard.png)
 
